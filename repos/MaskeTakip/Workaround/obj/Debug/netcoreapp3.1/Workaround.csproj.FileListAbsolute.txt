@@ -1,0 +1,16 @@
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.exe
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.deps.json
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.runtimeconfig.json
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.runtimeconfig.dev.json
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.dll
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Workaround.pdb
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.AssemblyInfo.cs
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.dll
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.pdb
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.genruntimeconfig.cache
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Data\source\repos\MaskeTakip\Workaround\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Data\source\repos\MaskeTakip\Workaround\obj\Debug\netcoreapp3.1\Workaround.csproj.CopyComplete

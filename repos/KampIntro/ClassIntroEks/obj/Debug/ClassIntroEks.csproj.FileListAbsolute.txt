@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\bin\Debug\ClassIntroEks.exe.config
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\bin\Debug\ClassIntroEks.exe
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\bin\Debug\ClassIntroEks.pdb
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\obj\Debug\ClassIntroEks.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\obj\Debug\ClassIntroEks.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\obj\Debug\ClassIntroEks.exe
+C:\Users\Data\source\repos\KampIntro\ClassIntroEks\obj\Debug\ClassIntroEks.pdb

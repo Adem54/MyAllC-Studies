@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\bin\Debug\netcoreapp3.1\VirtualMethods1.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\VirtualMethods1\obj\Debug\netcoreapp3.1\VirtualMethods1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\bin\Debug\WinForsmDamaTahtasi.exe.config
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\bin\Debug\WinForsmDamaTahtasi.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\bin\Debug\WinForsmDamaTahtasi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.Form1.resources
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.Properties.Resources.resources
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.csproj.GenerateResource.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\WinForsmDamaTahtasi\obj\Debug\WinForsmDamaTahtasi.pdb

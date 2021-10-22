@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.exe
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.deps.json
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.runtimeconfig.json
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.runtimeconfig.dev.json
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.dll
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\bin\Debug\netcoreapp3.1\ListCollections.pdb
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.AssemblyInfo.cs
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.dll
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.pdb
+C:\Users\Data\source\repos\C#Kursu\ListCollections\ListCollections\obj\Debug\netcoreapp3.1\ListCollections.genruntimeconfig.cache

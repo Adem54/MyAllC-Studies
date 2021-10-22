@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\bin\Debug\Generics.exe.config
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\bin\Debug\Generics.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\bin\Debug\Generics.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\obj\Debug\Generics.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Generics\obj\Debug\Generics.pdb

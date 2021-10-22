@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.exe
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.deps.json
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.runtimeconfig.json
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.runtimeconfig.dev.json
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.dll
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\bin\Debug\netcoreapp3.1\Delegeler.pdb
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.AssemblyInfo.cs
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.dll
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.pdb
+C:\Users\Data\source\repos\C#Kursu\Delegeler\Delegeler\obj\Debug\netcoreapp3.1\Delegeler.genruntimeconfig.cache

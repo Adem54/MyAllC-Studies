@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3.csproj", "{5041EEA9-B60E-4873-9F4A-AAC407A8D6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaKrediUygulamasi", "..\InterfaceBestPractiseInjection\BankaKrediUygulamasi.csproj", "{B3F1ED2D-C0C9-4DEE-AAD9-59DA8501901E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5041EEA9-B60E-4873-9F4A-AAC407A8D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5041EEA9-B60E-4873-9F4A-AAC407A8D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5041EEA9-B60E-4873-9F4A-AAC407A8D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5041EEA9-B60E-4873-9F4A-AAC407A8D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F1ED2D-C0C9-4DEE-AAD9-59DA8501901E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F1ED2D-C0C9-4DEE-AAD9-59DA8501901E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F1ED2D-C0C9-4DEE-AAD9-59DA8501901E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F1ED2D-C0C9-4DEE-AAD9-59DA8501901E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427B86E4-F07D-4D90-AB5F-5A4820D2A772}
+	EndGlobalSection
+EndGlobal

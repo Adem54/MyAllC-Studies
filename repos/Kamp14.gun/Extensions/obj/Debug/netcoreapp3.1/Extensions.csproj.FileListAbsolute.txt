@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.exe
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.deps.json
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.runtimeconfig.json
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Data\source\repos\Extensions\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfo.cs
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Data\source\repos\Extensions\obj\Debug\netcoreapp3.1\Extensions.genruntimeconfig.cache

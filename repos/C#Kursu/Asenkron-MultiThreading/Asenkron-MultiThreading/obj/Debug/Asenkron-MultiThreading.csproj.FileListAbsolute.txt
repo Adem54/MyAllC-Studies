@@ -1,0 +1,9 @@
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\bin\Debug\Asenkron-MultiThreading.exe
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\bin\Debug\Asenkron-MultiThreading.pdb
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron-MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron_MultiThreading.Form1.resources
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron_MultiThreading.Properties.Resources.resources
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron-MultiThreading.csproj.GenerateResource.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron-MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron-MultiThreading.exe
+C:\Users\Data\source\repos\Asenkron-MultiThreading\Asenkron-MultiThreading\obj\Debug\Asenkron-MultiThreading.pdb

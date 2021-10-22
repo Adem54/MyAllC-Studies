@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.exe
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.deps.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.dll
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\bin\Debug\netcoreapp3.1\LinqMethods.pdb
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.dll
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.pdb
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqMethods\obj\Debug\netcoreapp3.1\LinqMethods.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\OOP1\CreateNewList\bin\Debug\CreateNewList.exe.config
+C:\Users\Data\source\repos\OOP1\CreateNewList\bin\Debug\CreateNewList.exe
+C:\Users\Data\source\repos\OOP1\CreateNewList\bin\Debug\CreateNewList.pdb
+C:\Users\Data\source\repos\OOP1\CreateNewList\obj\Debug\CreateNewList.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\OOP1\CreateNewList\obj\Debug\CreateNewList.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\OOP1\CreateNewList\obj\Debug\CreateNewList.exe
+C:\Users\Data\source\repos\OOP1\CreateNewList\obj\Debug\CreateNewList.pdb

@@ -1,0 +1,12 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\bin\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\CtorIleGlobalDegiskenOlustur\obj\Debug\netcoreapp3.1\CtorIleGlobalDegiskenOlustur.genruntimeconfig.cache

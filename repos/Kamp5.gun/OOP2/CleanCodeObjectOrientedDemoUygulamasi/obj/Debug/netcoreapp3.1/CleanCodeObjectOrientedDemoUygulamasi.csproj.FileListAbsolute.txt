@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\bin\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\CleanCodeObjectOrientedDemoUygulamasi\obj\Debug\netcoreapp3.1\CleanCodeObjectOrientedDemoUygulamasi.genruntimeconfig.cache

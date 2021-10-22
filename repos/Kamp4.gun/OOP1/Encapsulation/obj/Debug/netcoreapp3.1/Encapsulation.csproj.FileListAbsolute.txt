@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.AssemblyReference.cache

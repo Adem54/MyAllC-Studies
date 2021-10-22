@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.exe
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.deps.json
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.runtimeconfig.json
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.runtimeconfig.dev.json
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.dll
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\bin\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.pdb
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.AssemblyInfo.cs
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.dll
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.pdb
+C:\Users\Data\source\repos\KampIntro\DiziElamanlarKullancAl2\obj\Debug\netcoreapp3.1\DiziElamanlarKullancAl2.genruntimeconfig.cache

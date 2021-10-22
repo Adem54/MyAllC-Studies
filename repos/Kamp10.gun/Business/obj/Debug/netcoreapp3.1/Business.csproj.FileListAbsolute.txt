@@ -1,0 +1,12 @@
+C:\Users\Data\source\repos\Kamp10.gun\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Data\source\repos\Kamp10.gun\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Data\source\repos\Kamp10.gun\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Data\source\repos\Kamp10.gun\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Data\source\repos\Kamp10.gun\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Data\source\repos\Kamp10.gun\Business\obj\Debug\netcoreapp3.1\Business.pdb

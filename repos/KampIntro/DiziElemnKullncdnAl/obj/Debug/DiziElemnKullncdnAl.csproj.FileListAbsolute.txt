@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\bin\Debug\DiziElemnKullncdnAl.exe.config
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\bin\Debug\DiziElemnKullncdnAl.exe
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\bin\Debug\DiziElemnKullncdnAl.pdb
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\obj\Debug\DiziElemnKullncdnAl.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\obj\Debug\DiziElemnKullncdnAl.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\obj\Debug\DiziElemnKullncdnAl.exe
+C:\Users\Data\source\repos\KampIntro\DiziElemnKullncdnAl\obj\Debug\DiziElemnKullncdnAl.pdb

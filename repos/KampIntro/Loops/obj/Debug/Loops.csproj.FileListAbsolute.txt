@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\Loops\bin\Debug\Loops.exe.config
+C:\Users\Data\source\repos\KampIntro\Loops\bin\Debug\Loops.exe
+C:\Users\Data\source\repos\KampIntro\Loops\bin\Debug\Loops.pdb
+C:\Users\Data\source\repos\KampIntro\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\Loops\obj\Debug\Loops.exe
+C:\Users\Data\source\repos\KampIntro\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,5 @@
+C:\Users\Data\source\repos\EnumYapilar\EnumYapilar\obj\Debug\netcoreapp3.1\EnumYapilar.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\EnumYapilar\EnumYapilar\obj\Debug\netcoreapp3.1\EnumYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\EnumYapilar\EnumYapilar\obj\Debug\netcoreapp3.1\EnumYapilar.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\EnumYapilar\EnumYapilar\obj\Debug\netcoreapp3.1\EnumYapilar.AssemblyInfo.cs
+C:\Users\Data\source\repos\EnumYapilar\EnumYapilar\obj\Debug\netcoreapp3.1\EnumYapilar.csproj.CoreCompileInputs.cache

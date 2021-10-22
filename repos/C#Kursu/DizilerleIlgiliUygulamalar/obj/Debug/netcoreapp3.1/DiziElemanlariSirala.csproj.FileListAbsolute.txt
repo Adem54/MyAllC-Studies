@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.exe
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.deps.json
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.runtimeconfig.json
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.runtimeconfig.dev.json
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.dll
+C:\Users\Data\source\repos\DiziElemanlariSirala\bin\Debug\netcoreapp3.1\DiziElemanlariSirala.pdb
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.AssemblyInfo.cs
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.dll
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.pdb
+C:\Users\Data\source\repos\DiziElemanlariSirala\obj\Debug\netcoreapp3.1\DiziElemanlariSirala.genruntimeconfig.cache

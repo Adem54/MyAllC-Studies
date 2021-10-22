@@ -1,0 +1,6 @@
+C:\Users\Data\source\repos\KampIntro\Methodlar\bin\Debug\Methodlar.exe.config
+C:\Users\Data\source\repos\KampIntro\Methodlar\bin\Debug\Methodlar.exe
+C:\Users\Data\source\repos\KampIntro\Methodlar\bin\Debug\Methodlar.pdb
+C:\Users\Data\source\repos\KampIntro\Methodlar\obj\Debug\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\Methodlar\obj\Debug\Methodlar.exe
+C:\Users\Data\source\repos\KampIntro\Methodlar\obj\Debug\Methodlar.pdb

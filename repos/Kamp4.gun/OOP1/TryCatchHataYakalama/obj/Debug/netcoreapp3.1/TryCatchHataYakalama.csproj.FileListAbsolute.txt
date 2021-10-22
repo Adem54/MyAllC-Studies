@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\bin\Debug\netcoreapp3.1\TryCatchHataYakalama.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\TryCatchHataYakalama\obj\Debug\netcoreapp3.1\TryCatchHataYakalama.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.exe
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.deps.json
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.json
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.dev.json
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\Data\source\repos\OOP\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfo.cs
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\Data\source\repos\OOP\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache

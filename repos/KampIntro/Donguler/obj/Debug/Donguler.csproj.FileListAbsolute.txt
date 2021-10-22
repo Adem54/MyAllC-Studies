@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\Data\source\repos\KampIntro\Donguler\bin\Debug\Donguler.exe
+C:\Users\Data\source\repos\KampIntro\Donguler\bin\Debug\Donguler.pdb
+C:\Users\Data\source\repos\KampIntro\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\Donguler\obj\Debug\Donguler.exe
+C:\Users\Data\source\repos\KampIntro\Donguler\obj\Debug\Donguler.pdb
+C:\Users\Data\source\repos\KampIntro\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache

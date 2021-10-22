@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\bin\Debug\netcoreapp3.1\Interfaces4Polimorfism.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces4Polimorfism\obj\Debug\netcoreapp3.1\Interfaces4Polimorfism.genruntimeconfig.cache

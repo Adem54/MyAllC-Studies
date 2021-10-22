@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.exe
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.deps.json
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.runtimeconfig.json
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.runtimeconfig.dev.json
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.dll
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\bin\Debug\netcoreapp3.1\Listeler.pdb
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.AssemblyInfo.cs
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.dll
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.pdb
+C:\Users\Data\source\repos\C#Kursu\Listeler\Listeler\obj\Debug\netcoreapp3.1\Listeler.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\KampIntro\bin\Debug\KampIntro.exe.config
+C:\Users\Data\source\repos\KampIntro\KampIntro\bin\Debug\KampIntro.exe
+C:\Users\Data\source\repos\KampIntro\KampIntro\bin\Debug\KampIntro.pdb
+C:\Users\Data\source\repos\KampIntro\KampIntro\obj\Debug\KampIntro.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\KampIntro\obj\Debug\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\KampIntro\obj\Debug\KampIntro.exe
+C:\Users\Data\source\repos\KampIntro\KampIntro\obj\Debug\KampIntro.pdb

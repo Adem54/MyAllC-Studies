@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\bin\Debug\netcoreapp3.1\DifferentDictionary.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DifferentDictionary\obj\Debug\netcoreapp3.1\DifferentDictionary.genruntimeconfig.cache

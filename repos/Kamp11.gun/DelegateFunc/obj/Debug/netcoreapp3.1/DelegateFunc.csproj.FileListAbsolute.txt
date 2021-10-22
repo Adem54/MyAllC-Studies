@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.exe
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.deps.json
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.runtimeconfig.json
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.runtimeconfig.dev.json
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.dll
+C:\Users\Data\source\repos\DelegateFunc\bin\Debug\netcoreapp3.1\DelegateFunc.pdb
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.AssemblyInfo.cs
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.dll
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.pdb
+C:\Users\Data\source\repos\DelegateFunc\obj\Debug\netcoreapp3.1\DelegateFunc.genruntimeconfig.cache

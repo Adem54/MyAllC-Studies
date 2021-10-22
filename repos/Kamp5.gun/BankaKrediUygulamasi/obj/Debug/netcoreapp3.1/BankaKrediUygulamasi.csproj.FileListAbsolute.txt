@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.exe
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.dll
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\bin\Debug\netcoreapp3.1\BankaKrediUygulamasi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.dll
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\InterfaceBestPractiseInjection\obj\Debug\netcoreapp3.1\BankaKrediUygulamasi.genruntimeconfig.cache

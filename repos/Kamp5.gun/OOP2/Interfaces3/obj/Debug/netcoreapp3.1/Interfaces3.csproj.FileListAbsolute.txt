@@ -1,0 +1,12 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\bin\Debug\netcoreapp3.1\Interfaces3.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces3\obj\Debug\netcoreapp3.1\Interfaces3.genruntimeconfig.cache

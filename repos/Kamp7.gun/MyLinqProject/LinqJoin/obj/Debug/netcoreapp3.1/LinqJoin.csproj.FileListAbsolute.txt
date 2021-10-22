@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.exe
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.deps.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.dll
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.pdb
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.dll
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.pdb
+C:\Users\Data\source\repos\Kamp7.gun\MyLinqProject\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.exe
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.deps.json
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.runtimeconfig.json
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.dll
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\bin\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.pdb
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.AssemblyInfo.cs
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.dll
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.pdb
+C:\Users\Data\source\repos\Casting-Boxing-Unboxing\Casting-Boxing-Unboxing\obj\Debug\netcoreapp3.1\Casting-Boxing-Unboxing.genruntimeconfig.cache

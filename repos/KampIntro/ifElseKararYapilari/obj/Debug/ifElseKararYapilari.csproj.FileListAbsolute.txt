@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\bin\Debug\ifElseKararYapilari.exe.config
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\bin\Debug\ifElseKararYapilari.exe
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\bin\Debug\ifElseKararYapilari.pdb
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\obj\Debug\ifElseKararYapilari.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\obj\Debug\ifElseKararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\obj\Debug\ifElseKararYapilari.exe
+C:\Users\Data\source\repos\KampIntro\ifElseKararYapilari\obj\Debug\ifElseKararYapilari.pdb

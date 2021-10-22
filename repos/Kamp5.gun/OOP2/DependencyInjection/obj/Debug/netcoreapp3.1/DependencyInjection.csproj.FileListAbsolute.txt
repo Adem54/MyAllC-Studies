@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache

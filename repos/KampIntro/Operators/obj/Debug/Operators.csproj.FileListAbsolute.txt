@@ -1,0 +1,6 @@
+C:\Users\Data\source\repos\KampIntro\Operators\bin\Debug\Operators.exe.config
+C:\Users\Data\source\repos\KampIntro\Operators\bin\Debug\Operators.exe
+C:\Users\Data\source\repos\KampIntro\Operators\bin\Debug\Operators.pdb
+C:\Users\Data\source\repos\KampIntro\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\Operators\obj\Debug\Operators.exe
+C:\Users\Data\source\repos\KampIntro\Operators\obj\Debug\Operators.pdb

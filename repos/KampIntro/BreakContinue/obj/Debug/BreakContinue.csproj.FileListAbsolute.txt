@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\BreakContinue\bin\Debug\BreakContinue.exe.config
+C:\Users\Data\source\repos\KampIntro\BreakContinue\bin\Debug\BreakContinue.exe
+C:\Users\Data\source\repos\KampIntro\BreakContinue\bin\Debug\BreakContinue.pdb
+C:\Users\Data\source\repos\KampIntro\BreakContinue\obj\Debug\BreakContinue.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\BreakContinue\obj\Debug\BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\BreakContinue\obj\Debug\BreakContinue.exe
+C:\Users\Data\source\repos\KampIntro\BreakContinue\obj\Debug\BreakContinue.pdb

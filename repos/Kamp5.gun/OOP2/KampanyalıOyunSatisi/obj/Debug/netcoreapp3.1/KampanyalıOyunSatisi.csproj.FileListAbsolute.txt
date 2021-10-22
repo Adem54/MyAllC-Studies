@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\bin\Debug\netcoreapp3.1\KampanyalıOyunSatisi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\KampanyalıOyunSatisi\obj\Debug\netcoreapp3.1\KampanyalıOyunSatisi.genruntimeconfig.cache

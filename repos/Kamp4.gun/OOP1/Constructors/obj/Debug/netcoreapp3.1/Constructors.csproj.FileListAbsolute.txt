@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache

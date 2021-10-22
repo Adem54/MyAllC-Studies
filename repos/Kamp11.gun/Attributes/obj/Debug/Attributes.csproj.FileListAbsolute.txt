@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Data\source\repos\Attributes\bin\Debug\Attributes.exe
+C:\Users\Data\source\repos\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Data\source\repos\Attributes\obj\Debug\Attributes.exe
+C:\Users\Data\source\repos\Attributes\obj\Debug\Attributes.pdb

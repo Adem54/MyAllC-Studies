@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache

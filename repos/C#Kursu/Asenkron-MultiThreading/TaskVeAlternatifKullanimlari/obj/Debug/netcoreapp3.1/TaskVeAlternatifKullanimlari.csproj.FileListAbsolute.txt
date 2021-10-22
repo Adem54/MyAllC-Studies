@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.exe
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.deps.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.runtimeconfig.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.dll
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\bin\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.pdb
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.AssemblyInfo.cs
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.dll
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.pdb
+C:\Users\Data\source\repos\Asenkron-MultiThreading\TaskVeAlternatifKullanimlari\obj\Debug\netcoreapp3.1\TaskVeAlternatifKullanimlari.genruntimeconfig.cache

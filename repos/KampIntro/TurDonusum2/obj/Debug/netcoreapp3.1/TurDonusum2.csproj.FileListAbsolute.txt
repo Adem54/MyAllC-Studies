@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.exe
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.deps.json
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.runtimeconfig.json
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.runtimeconfig.dev.json
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.dll
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\bin\Debug\netcoreapp3.1\TurDonusum2.pdb
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.AssemblyInfo.cs
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.dll
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.pdb
+C:\Users\Data\source\repos\KampIntro\TurDonusum2\obj\Debug\netcoreapp3.1\TurDonusum2.genruntimeconfig.cache

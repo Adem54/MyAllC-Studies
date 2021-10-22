@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.exe
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.deps.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.runtimeconfig.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.dll
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\bin\Debug\netcoreapp3.1\AsyncDemo1.pdb
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.AssemblyInfo.cs
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.dll
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.pdb
+C:\Users\Data\source\repos\Asenkron-MultiThreading\AsyncDemo1\obj\Debug\netcoreapp3.1\AsyncDemo1.genruntimeconfig.cache

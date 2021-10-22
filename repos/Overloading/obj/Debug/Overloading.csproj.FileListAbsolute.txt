@@ -1,0 +1,6 @@
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\bin\Debug\Overloading.exe.config
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\bin\Debug\Overloading.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\bin\Debug\Overloading.pdb
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\obj\Debug\Overloading.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\Overloading\obj\Debug\Overloading.pdb

@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\bin\Debug\netcoreapp3.1\HomeworkTest.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\HomeworkTest\obj\Debug\netcoreapp3.1\HomeworkTest.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\bin\Debug\TurDonusumKullcDegrAl.exe.config
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\bin\Debug\TurDonusumKullcDegrAl.exe
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\bin\Debug\TurDonusumKullcDegrAl.pdb
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\obj\Debug\TurDonusumKullcDegrAl.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\obj\Debug\TurDonusumKullcDegrAl.exe
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\obj\Debug\TurDonusumKullcDegrAl.pdb
+C:\Users\Data\source\repos\KampIntro\TurDonusumKullcDegrAl\obj\Debug\TurDonusumKullcDegrAl.csproj.AssemblyReference.cache

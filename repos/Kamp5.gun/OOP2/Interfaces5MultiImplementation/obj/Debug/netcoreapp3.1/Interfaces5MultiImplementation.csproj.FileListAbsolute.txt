@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\bin\Debug\netcoreapp3.1\Interfaces5MultiImplementation.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Interfaces5MultiImplementation\obj\Debug\netcoreapp3.1\Interfaces5MultiImplementation.genruntimeconfig.cache

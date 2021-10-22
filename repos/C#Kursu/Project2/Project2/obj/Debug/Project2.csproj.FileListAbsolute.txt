@@ -1,0 +1,9 @@
+C:\Users\Data\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Data\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Data\source\repos\Project2\Project2\obj\Debug\Project2.pdb

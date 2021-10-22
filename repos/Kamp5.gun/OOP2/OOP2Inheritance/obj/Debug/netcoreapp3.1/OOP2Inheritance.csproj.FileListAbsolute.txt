@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\bin\Debug\netcoreapp3.1\OOP2Inheritance.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\OOP2Inheritance\obj\Debug\netcoreapp3.1\OOP2Inheritance.genruntimeconfig.cache

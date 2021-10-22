@@ -1,0 +1,5 @@
+C:\Users\Data\source\repos\OOP\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\OOP\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\OOP\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\OOP\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.AssemblyInfo.cs
+C:\Users\Data\source\repos\OOP\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.csproj.CoreCompileInputs.cache

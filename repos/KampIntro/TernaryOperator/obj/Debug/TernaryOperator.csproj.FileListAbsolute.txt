@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\obj\Debug\TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Users\Data\source\repos\KampIntro\TernaryOperator\obj\Debug\TernaryOperator.pdb

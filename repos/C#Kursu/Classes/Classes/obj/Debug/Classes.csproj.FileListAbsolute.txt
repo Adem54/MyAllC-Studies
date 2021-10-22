@@ -1,0 +1,9 @@
+C:\Users\Data\source\repos\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Data\source\repos\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.Form1.resources
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.Properties.Resources.resources
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.csproj.GenerateResource.cache
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Data\source\repos\Classes\Classes\obj\Debug\Classes.pdb

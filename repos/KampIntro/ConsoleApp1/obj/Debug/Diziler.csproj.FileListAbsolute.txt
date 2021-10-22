@@ -1,0 +1,6 @@
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Data\source\repos\KampIntro\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

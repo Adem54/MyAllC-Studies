@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.exe
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.deps.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\bin\Debug\netcoreapp3.1\Inheritancess2.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.dll
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.pdb
+C:\Users\Data\source\repos\Kamp5.gun\OOP2\Inheritancess2\obj\Debug\netcoreapp3.1\Inheritancess2.genruntimeconfig.cache

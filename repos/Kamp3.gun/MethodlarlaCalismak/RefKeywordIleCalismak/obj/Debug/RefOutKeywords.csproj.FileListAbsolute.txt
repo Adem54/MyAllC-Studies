@@ -1,0 +1,6 @@
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\bin\Debug\RefKeywordIleCalismak.exe.config
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\bin\Debug\RefKeywordIleCalismak.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\bin\Debug\RefKeywordIleCalismak.pdb
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\obj\Debug\RefOutKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\obj\Debug\RefKeywordIleCalismak.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\RefKeywordIleCalismak\obj\Debug\RefKeywordIleCalismak.pdb

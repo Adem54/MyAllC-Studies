@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\bin\Debug\ParamsKeyword.exe.config
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\bin\Debug\ParamsKeyword.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\bin\Debug\ParamsKeyword.pdb
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\obj\Debug\ParamsKeyword.exe
+C:\Users\Data\source\repos\Kamp3.gun\MethodlarlaCalismak\ParamsKeyword\obj\Debug\ParamsKeyword.pdb

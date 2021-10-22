@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.exe
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.deps.json
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.runtimeconfig.json
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.runtimeconfig.dev.json
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.dll
+C:\Users\Data\source\repos\RefVe\bin\Debug\netcoreapp3.1\RefVe.pdb
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.AssemblyInfo.cs
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.dll
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.pdb
+C:\Users\Data\source\repos\RefVe\obj\Debug\netcoreapp3.1\RefVe.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.deps.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.runtimeconfig.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.runtimeconfig.dev.json
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\bin\Debug\netcoreapp3.1\DictionaryGenericClasses2.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.AssemblyInfo.cs
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.dll
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\DictionaryGenericClasses2\obj\Debug\netcoreapp3.1\DictionaryGenericClasses2.genruntimeconfig.cache

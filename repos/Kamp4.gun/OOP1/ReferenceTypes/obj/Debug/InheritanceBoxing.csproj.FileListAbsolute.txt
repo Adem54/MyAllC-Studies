@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\obj\Debug\InheritanceBoxing.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\obj\Debug\InheritanceBoxing.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\Data\source\repos\Kamp4.gun\OOP1\ReferenceTypes\obj\Debug\ReferenceTypes.pdb

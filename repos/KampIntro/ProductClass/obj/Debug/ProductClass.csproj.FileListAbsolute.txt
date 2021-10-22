@@ -1,0 +1,7 @@
+C:\Users\Data\source\repos\KampIntro\ProductClass\bin\Debug\ProductClass.exe.config
+C:\Users\Data\source\repos\KampIntro\ProductClass\bin\Debug\ProductClass.exe
+C:\Users\Data\source\repos\KampIntro\ProductClass\bin\Debug\ProductClass.pdb
+C:\Users\Data\source\repos\KampIntro\ProductClass\obj\Debug\ProductClass.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\KampIntro\ProductClass\obj\Debug\ProductClass.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\KampIntro\ProductClass\obj\Debug\ProductClass.exe
+C:\Users\Data\source\repos\KampIntro\ProductClass\obj\Debug\ProductClass.pdb
