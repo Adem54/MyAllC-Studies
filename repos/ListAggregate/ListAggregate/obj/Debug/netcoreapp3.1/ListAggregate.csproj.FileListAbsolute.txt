@@ -1,0 +1,14 @@
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.exe
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.deps.json
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.runtimeconfig.json
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.runtimeconfig.dev.json
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.dll
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\bin\Debug\netcoreapp3.1\ListAggregate.pdb
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.csproj.AssemblyReference.cache
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.AssemblyInfoInputs.cache
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.AssemblyInfo.cs
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.csproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.dll
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.pdb
+C:\Users\Data\source\repos\ListAggregate\ListAggregate\obj\Debug\netcoreapp3.1\ListAggregate.genruntimeconfig.cache

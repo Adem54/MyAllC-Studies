@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D5lNCPf01vaYTsg10+AzdACRbuWeRtBsNO0XG7mB3/hoe7yhZAu7jXrl5L2Lv7Ry6Ky7/Wf4yVX2nNsurmpnYQ==",
+  "dgSpecHash": "dlqN3bkeqvFZOMsld4BufhNzwBWewxOIlMfQre2w7+BFOJ8Aqet9i8ln890yd8tHTCu7p+47N9O+g3UEIzC1/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Data\\source\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Data\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

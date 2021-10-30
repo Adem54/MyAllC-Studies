@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TqqILoi2JbXOW/k0EcD6CMwF6otfBykRr24c5THjvPwv8PGuT5BMbTMLHFVScPUfCZk4JUeT440ZKqCfBmy4mg==",
+  "dgSpecHash": "fJbSeOA35RXkccz8R0S9GdjtHSr4H6ta/HvfLnyxiMtqm9n6pUAeuJfwmn5fv1k9C+sJZ2NRuxW00a/Q9ZUOwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj",
+  "projectFilePath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

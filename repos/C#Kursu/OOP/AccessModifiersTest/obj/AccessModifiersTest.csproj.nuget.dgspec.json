@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj": {}
+    "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj": {
+    "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj",
+        "projectUniqueName": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj",
         "projectName": "AccessModifiersTest",
-        "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj",
+        "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\AccessModifiersTest.csproj",
         "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\obj\\",
+        "outputPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiersTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj": {
-                "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj"
+              "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj": {
+                "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj": {
+    "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj",
         "projectName": "AccessModifiers",
-        "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj",
+        "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\AccessModifiers.csproj",
         "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\AccessModifiers\\obj\\",
+        "outputPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\AccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

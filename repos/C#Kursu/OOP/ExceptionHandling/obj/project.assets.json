@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\ExceptionHandling\\ExceptionHandling.csproj",
       "projectName": "ExceptionHandling",
-      "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\ExceptionHandling\\ExceptionHandling.csproj",
       "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\ExceptionHandling\\obj\\",
+      "outputPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\ExceptionHandling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

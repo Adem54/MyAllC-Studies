@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/xs9iM1wMumsmqoECVa9GFaaVxK7WBkcEhhFYlKzvzyoWrCvup4drnIAvYo0zOvaL9EQ3fDSk+SXGMAnKczyQ==",
+  "dgSpecHash": "Dk7j4PVuYiluwySea17KIsUGSc7VlWzbVt+KOWUVefGHMoZzuL6cBjDqoIOdMTi/OIblx8Ju7L11LFkXWs5viA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Proje4.DataAccess\\Proje4.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Proje4.DataAccess\\Proje4.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

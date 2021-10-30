@@ -5763,11 +5763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\Project4.ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\Project4.ConsoleUI.csproj",
       "projectName": "Project4.ConsoleUI",
-      "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\Project4.ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\Project4.ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5788,11 +5788,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj": {
-              "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj"
+            "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj": {
+              "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.Business\\Project4.Business.csproj"
             },
-            "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.Entities\\Project4.Entities.csproj": {
-              "projectPath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\Project4.Entities\\Project4.Entities.csproj"
+            "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.Entities\\Project4.Entities.csproj": {
+              "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\Project4.Entities\\Project4.Entities.csproj"
             }
           }
         }

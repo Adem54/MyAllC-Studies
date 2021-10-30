@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Data\\source\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
       "projectName": "NortwindEfCodeFirst",
-      "projectPath": "C:\\Users\\Data\\source\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
+      "projectPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\EntityFramework\\ConsoleUI\\NortwindEfCodeFirst.csproj",
       "packagesPath": "C:\\Users\\Data\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Data\\source\\repos\\EntityFramework\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\EntityFramework\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

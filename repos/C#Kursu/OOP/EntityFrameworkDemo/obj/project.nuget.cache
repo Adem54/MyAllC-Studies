@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+v0UcS7f2G6wMO9+P5j6CfwXCcTUrqhKDTsMlKzKJA28hLnTVhbMMxZuqdulP9KVBKb90D5RrMOWo+FmeG/HA==",
+  "dgSpecHash": "lAfDmiVFQCVEpPOEhHBT2vEgQ/FgA758yTLXCamxRLVh+5UVd99IO9WQnRN5op3yj6yYZw17SHV7W5H+L9zXDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Data\\source\\repos\\C#Kursu\\OOP\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
+  "projectFilePath": "C:\\Users\\Data\\source\\MyAllC-Studies\\repos\\C#Kursu\\OOP\\EntityFrameworkDemo\\EntityFrameworkDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Data\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
